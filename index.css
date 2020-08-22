@@ -16,8 +16,9 @@ li {
 #drawer {
     background-color: #ccc;
     width: 240px;
-    display: none;
     z-index: 500;
+    position: absolute;
+    display: none;
 }
 
 #parent {
